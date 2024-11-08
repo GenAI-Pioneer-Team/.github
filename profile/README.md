@@ -41,14 +41,6 @@ We are committed to lifelong learning and contributing to the wider AI community
 - **Meetups:** Connect with us at local and virtual meetups.
 - **Open Source:** Contribute to and benefit from our open-source projects on GitHub.
 
-## 📧 Get In Touch
-
-We are always eager to explore new collaborations and partnerships. Feel free to reach out:
-
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Twitter:** [Your Twitter Handle]
-
 ## 💡 Join Our Team
 
 Are you inspired by the potential of generative AI? We are always on the lookout for passionate developers and researchers to join our team. Check out our [Careers Page](#) for the latest opportunities.
